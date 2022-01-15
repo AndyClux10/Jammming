@@ -3,6 +3,8 @@ Jammming is a capstone project on Codecademy. In Jammming, you connect to the Sp
 
 IMPORTANT NOTE: The Client ID for Spotify in file Spotify.js is empty. For the app to function properly, create your own app on Spotify and pull your own ClientID!!!!
 
+Video example of how Jammming functions: https://www.youtube.com/watch?v=VmnlpfRCJII
+
 # Running Jammming
 Jammming is built using React. To run on your local system, ensure you have React installed, and use the information below to guide you in running Jammming on your local system. 
 
